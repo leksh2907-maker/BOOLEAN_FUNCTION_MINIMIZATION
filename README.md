@@ -58,7 +58,7 @@ endmodule
 <img width="1386" height="713" alt="Screenshot 2025-12-09 234418" src="https://github.com/user-attachments/assets/dcf2ec4d-d16d-4268-a920-aec2d11957d2" />
 
 **RTL**
-<img width="1222" height="647" alt="Screenshot 2025-12-09 224516" src="https://github.com/user-attachments/assets/78f1e208-09be-4551-90cf-750b9e0a0110" />
+<img width="1474" height="785" alt="image" src="https://github.com/user-attachments/assets/6c198a0f-38d3-414c-a329-db166cda312b" />
 <img width="1369" height="732" alt="image" src="https://github.com/user-attachments/assets/525cfe35-d48d-4694-b74e-a203f34fe9fa" />
 
 **Timing Diagram**
